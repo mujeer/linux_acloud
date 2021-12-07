@@ -1,5 +1,5 @@
 # some_code
-just a shell script
+just a shell script pole scm
 
 you need to pass the valued 
 
